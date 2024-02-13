@@ -1,0 +1,35 @@
+_repo: Langs-Slingerpaden-b-een-verhaal-uit-de-Berkelstreek_72834
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Noorden, Frans Van
+    gutenberg_agent_id: '56850'
+    url: http://www.gutenberg.org/2009/agents/56850
+creator:
+  author:
+    agent_name: Krebbers, H. J. (Hendrik Jan)
+    aliases:
+    - Krebbers, H.J.
+    - Krebbers, Hendrik Jan
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '56826'
+    url: http://www.gutenberg.org/2009/agents/56826
+description: ''
+gutenberg_issued: '2024-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72834'
+language: nl
+pgterms:marc905: 20201213055414krebbers
+pgterms:marc906: '1916'
+pgterms:marc907: NL
+production_note: Produced by R.G.P.M. van Giesen
+publication_note: '  $aDoetinchem :$bUitgevers-maatschappij "C-Misset", $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Langs Slingerpaden : $b een verhaal uit de Berkelstreek'
+url: http://www.gutenberg.org/ebooks/72834

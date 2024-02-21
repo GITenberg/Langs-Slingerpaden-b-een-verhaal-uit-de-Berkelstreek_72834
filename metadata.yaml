@@ -5,6 +5,9 @@ contributor:
     agent_name: Noorden, Frans Van
     gutenberg_agent_id: '56850'
     url: http://www.gutenberg.org/2009/agents/56850
+covers:
+- cover_type: archival
+  image_path: 72834-h/images/01_cover.jpg
 creator:
   author:
     agent_name: Krebbers, H. J. (Hendrik Jan)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '56826'
     url: http://www.gutenberg.org/2009/agents/56826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72834#Langs-Slingerpaden-b-een-verhaal-uit-de-Berkelstreek
 gutenberg_issued: '2024-02-07'
 gutenberg_type: Text
 identifiers:
